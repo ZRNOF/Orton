@@ -1,0 +1,9 @@
+node_modules
+
+test
+
+.vscode
+
+.git
+
+.parcel-cache
